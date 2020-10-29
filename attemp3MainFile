@@ -1,11 +1,3 @@
-//FOR GRADER: after compilation, usage: ./a.out txtfile , to run a specific text file
-
-/*
-Emily Huynh, 2001393103, cs 302 section 1006, Assignment 4
-Input: Read text file in as value inputs to be sorted
-Output: Will be print the sorted values out to an output file
-Desc: Implement a selection sort using threads to increase sort speed
-*/
 
 #include <thread>
 #include <fstream>
